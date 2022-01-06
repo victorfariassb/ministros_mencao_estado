@@ -1,2 +1,2 @@
 # ministros_mencao_estado
-Código para ver o quanto os ministros estão falando sobre os estados deles
+Neste repositório, trago o script que usei para raspar os dados do Twitter de alguns ministros do governo Bolsonaro + os arquivos raspados + script para analisar os dados.
